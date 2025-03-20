@@ -10,11 +10,11 @@ Concurrency is at the core of Go’s power! This guide explores **26 powerful co
 ---
 
 ## 📌 Table of Contents  
-1. [🔹 Core Concurrency Patterns](#core-concurrency-patterns)  
-2. [🧠 Advanced Concurrency Patterns](#advanced-concurrency-patterns)  
-3. [🚀 Intelligent Adaptive Patterns](#intelligent-adaptive-patterns)  
-4. [🔬 Rate Limiting & Throttling](#rate-limiting--throttling)  
-5. [🎭 Isolation & Synchronization](#isolation--synchronization)  
+1. [🔹 Core Concurrency Patterns](#-core-concurrency-patterns)  
+2. [🧠 Advanced Concurrency Patterns](#-advanced-concurrency-patterns)  
+3. [🚀 Intelligent Adaptive Patterns](#-intelligent-adaptive-patterns)  
+4. [🔬 Rate Limiting & Throttling](#-rate-limiting--throttling)  
+5. [🎭 Isolation & Synchronization](#-isolation--synchronization)  
 
 ---
 
